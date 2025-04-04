@@ -31,10 +31,6 @@
     - `o`: Grant/revoke operator privileges.
     - `l`: Set/remove user limit.
 
-### Bonus Part *(Optional, if implemented)*
-- File transfer between clients.
-- A bot for automated responses.
-
 ---
 
 ## 🚀 How to Use
@@ -92,6 +88,7 @@ Send commands in parts (e.g., `com`, `man`, `d\n`) to verify the server aggregat
 
 ## 📜 Original Task
 Check out the full assignment details: [here](ft_irc_assignment.pdf)
+Dive into the technical processes of my IRC server: 
 
 ---
 
