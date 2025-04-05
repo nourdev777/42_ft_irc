@@ -88,7 +88,7 @@ Send commands in parts (e.g., `com`, `man`, `d\n`) to verify the server aggregat
 
 ## 📜 Original Task
 - Check out the full assignment details: [ft_irc_assignment.pdf](ft_irc_assignment.pdf)
-- Dive into the technical processes of my IRC server: [ft_irc_technical_description.pdf](ft_irc_technical_description.pdf)
+- Dive into the technical processes of my IRC server: [ft_irc_technical_description.md](ft_irc_technical_description.md)
 
 ---
 
